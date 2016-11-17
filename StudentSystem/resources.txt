@@ -1,0 +1,11 @@
+Name ResourceType Url CourseId
+Course Graffic;Document;https://softuni.bg/downloads/svn/db-apps/July-2015/Database-Applications-July-2015-Schedule.xlsx;1
+Playlist in Youtube;Video;https://softuni.bg/trainings/resources/video/5097/playlist-in-youtube-july-2015-database-applications-jul-2015;2
+Class Definition;Video;https://softuni.bg/trainings/resources/video/5150/defining-classes-1-june-2015-nakov-database-applications-jul-2015;3
+Functional Programming;Video;https://softuni.bg/trainings/resources/video/5151/functional-programming-11-may-2015-filip-kolev-database-applications-jul-2015;4
+Presentation Introduction;Presentation;https://softuni.bg/downloads/svn/db-apps/July-2015/0.%20Database-Applications-Course-Introduction.pptx;5
+Github Demo;Other;https://github.com/SoftUni/Database-Applications/tree/master/1.%20Entity-Framework;6
+SoftUni Database Seed;Other;https://softuni.bg/downloads/svn/db-apps/July-2015/1.%20SoftUni-Database-MS-SQL-Server.zip;7
+ORM Homework;Document;https://softuni.bg/downloads/svn/db-apps/July-2015/1.%20Entity-Framework-Homework.docx;8
+Entity Framework Code First Lab;Other;https://softuni.bg/downloads/svn/db-apps/July-2015/2.%20Entity-Framework-Code-First-Exercise-Book-Shop.zip;9
+Transactions;Presentation;https://softuni.bg/downloads/svn/db-apps/July-2015/4.%20Transactions-in-Entity-Framework.pptx;10

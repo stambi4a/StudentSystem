@@ -1,0 +1,10 @@
+Name
+GNU
+Apache-License 2.0
+BSD 2-Clause "New" or "Revised" license
+BSD 2-Clause "Simplified" or "FreeBSD" license
+GNU Library or "Lesser" General Public License (LPGL)
+MIT 
+LicenseMozilla Public License
+Common Development and Distribution License
+Eclipse Public License
